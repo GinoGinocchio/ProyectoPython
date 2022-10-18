@@ -1,0 +1,25 @@
+
+
+
+Alumno: GINO PAOLO
+
+			N1	N2	N3	Prom
+
+Notas de algoritmica	12	13	15	13
+
+Notas de Estadistica	19	18	12	16
+
+Notas de Calculo	10	20	15	15
+
+
+Alumno: MAICOL
+
+			N1	N2	N3	Prom
+
+Notas de algoritmica	12	18	20	16
+
+Notas de Estadistica	12	10	20	14
+
+Notas de Calculo	10	20	15	15
+
+
